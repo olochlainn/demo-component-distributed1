@@ -40,6 +40,8 @@ jitter:: Deviation from standard distribution.
 
 keystore:: A repository of security certificates. See truststore.
 
+lossy:: A file format that has lost some of the original information.
+
 partitioner:: A process that performs partitioning.
 
 picosecond:: One thousandth of a nanosecond.
